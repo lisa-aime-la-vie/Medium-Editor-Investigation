@@ -2,3 +2,12 @@
   border-radius: 3px;
   max-width: 600px;
 }
+
+.editor .dynamic-content {
+  cursor: pointer;
+  display: inline-block;
+  background-color: #c4d2d8;
+  color: #fff;
+  border-radius: 3px;
+  padding: 2px;
+}
